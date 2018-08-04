@@ -4,7 +4,9 @@ Really excited to work with git.
 
 Adding some bit of more information.
 This lines are meant for practice purpose.
-Time to learn more.
+Conflicts!!
+
+
 Hope the journey goes well.
 
 Regards,
