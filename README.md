@@ -1,0 +1,2 @@
+# kickstartwithgit
+First git repository
