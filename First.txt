@@ -2,6 +2,7 @@ This is a beginning of git for me.
 
 Really excited to work with git.
 Hope the journey goes well.
+It seems all ok.
 
 Regards,
 Aditya
